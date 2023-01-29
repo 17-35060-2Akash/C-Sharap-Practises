@@ -1,0 +1,7 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Constructor[A]\Constructor[A]\bin\Debug\Constructor[A].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Constructor[A]\Constructor[A]\bin\Debug\Constructor[A].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Constructor[A]\Constructor[A]\bin\Debug\Constructor[A].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Constructor[A]\Constructor[A]\obj\Debug\Constructor[A].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Constructor[A]\Constructor[A]\obj\Debug\Constructor[A].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Constructor[A]\Constructor[A]\obj\Debug\Constructor[A].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Constructor[A]\Constructor[A]\obj\Debug\Constructor[A].pdb

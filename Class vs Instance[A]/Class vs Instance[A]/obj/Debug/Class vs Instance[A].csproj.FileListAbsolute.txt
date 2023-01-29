@@ -1,0 +1,7 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Class vs Instance[A]\Class vs Instance[A]\obj\Debug\Class vs Instance[A].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Class vs Instance[A]\Class vs Instance[A]\obj\Debug\Class vs Instance[A].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Class vs Instance[A]\Class vs Instance[A]\bin\Debug\Class vs Instance[A].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Class vs Instance[A]\Class vs Instance[A]\bin\Debug\Class vs Instance[A].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Class vs Instance[A]\Class vs Instance[A]\bin\Debug\Class vs Instance[A].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Class vs Instance[A]\Class vs Instance[A]\obj\Debug\Class vs Instance[A].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Class vs Instance[A]\Class vs Instance[A]\obj\Debug\Class vs Instance[A].pdb
